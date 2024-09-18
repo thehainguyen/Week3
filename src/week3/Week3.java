@@ -15,7 +15,8 @@ public class Week3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("Hello");
+        System.out.print("Hello ");
+        System.out.print("World");
     }
     
 }
